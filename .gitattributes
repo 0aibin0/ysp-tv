@@ -1,0 +1,19 @@
+# Normalise line endings in the repository; check out native on each platform.
+* text=auto
+
+# Source
+*.java   text diff=java
+*.js     text
+*.ps1    text
+*.py     text
+*.xml    text
+*.md     text
+*.json   text
+
+# Binaries: never touch these.
+*.png    binary
+*.apk    binary
+*.bin    binary
+*.jks    binary
+*.dex    binary
+*.class  binary

@@ -1,0 +1,386 @@
+[
+  {
+    "no": 1,
+    "name": "CCTV-1 综合",
+    "short": "CCTV-1",
+    "pid": "600001859",
+    "cctv": "cctv1",
+    "group": "央视"
+  },
+  {
+    "no": 2,
+    "name": "CCTV-2 财经",
+    "short": "CCTV-2",
+    "pid": "600001800",
+    "cctv": "cctv2",
+    "group": "央视"
+  },
+  {
+    "no": 3,
+    "name": "CCTV-3 综艺",
+    "short": "CCTV-3",
+    "pid": "600001801",
+    "cctv": "cctv3",
+    "group": "央视"
+  },
+  {
+    "no": 4,
+    "name": "CCTV-4 中文国际",
+    "short": "CCTV-4",
+    "pid": "600001814",
+    "cctv": "cctv4",
+    "group": "央视"
+  },
+  {
+    "no": 5,
+    "name": "CCTV-5 体育",
+    "short": "CCTV-5",
+    "pid": "600001818",
+    "cctv": "cctv5",
+    "group": "央视"
+  },
+  {
+    "no": 6,
+    "name": "CCTV-6 电影",
+    "short": "CCTV-6",
+    "pid": "600108442",
+    "cctv": "cctv6",
+    "group": "央视"
+  },
+  {
+    "no": 7,
+    "name": "CCTV-7 国防军事",
+    "short": "CCTV-7",
+    "pid": "600004092",
+    "cctv": "cctv7",
+    "group": "央视"
+  },
+  {
+    "no": 8,
+    "name": "CCTV-8 电视剧",
+    "short": "CCTV-8",
+    "pid": "600001803",
+    "cctv": "cctv8",
+    "group": "央视"
+  },
+  {
+    "no": 9,
+    "name": "CCTV-9 纪录",
+    "short": "CCTV-9",
+    "pid": "600004078",
+    "cctv": "cctvjilu",
+    "group": "央视"
+  },
+  {
+    "no": 10,
+    "name": "CCTV-10 科教",
+    "short": "CCTV-10",
+    "pid": "600001805",
+    "cctv": "cctv10",
+    "group": "央视"
+  },
+  {
+    "no": 11,
+    "name": "CCTV-11 戏曲",
+    "short": "CCTV-11",
+    "pid": "600001806",
+    "cctv": "cctv11",
+    "group": "央视"
+  },
+  {
+    "no": 12,
+    "name": "CCTV-12 社会与法",
+    "short": "CCTV-12",
+    "pid": "600001807",
+    "cctv": "cctv12",
+    "group": "央视"
+  },
+  {
+    "no": 13,
+    "name": "CCTV-13 新闻",
+    "short": "CCTV-13",
+    "pid": "600001811",
+    "cctv": "cctv13",
+    "group": "央视"
+  },
+  {
+    "no": 14,
+    "name": "CCTV-14 少儿",
+    "short": "CCTV-14",
+    "pid": "600001809",
+    "cctv": "cctvchild",
+    "group": "央视"
+  },
+  {
+    "no": 15,
+    "name": "CCTV-15 音乐",
+    "short": "CCTV-15",
+    "pid": "600001815",
+    "cctv": "cctv15",
+    "group": "央视"
+  },
+  {
+    "no": 16,
+    "name": "CCTV-16 奥林匹克",
+    "short": "CCTV-16",
+    "pid": "600098637",
+    "cctv": "cctv16",
+    "group": "央视"
+  },
+  {
+    "no": 17,
+    "name": "CCTV-17 农业农村",
+    "short": "CCTV-17",
+    "pid": "600001810",
+    "cctv": "cctv17",
+    "group": "央视"
+  },
+  {
+    "no": 18,
+    "name": "北京卫视",
+    "short": "北京卫视",
+    "pid": "600002309",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 19,
+    "name": "东方卫视",
+    "short": "东方卫视",
+    "pid": "600002483",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 20,
+    "name": "天津卫视",
+    "short": "天津卫视",
+    "pid": "600152137",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 21,
+    "name": "重庆卫视",
+    "short": "重庆卫视",
+    "pid": "600002531",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 22,
+    "name": "河北卫视",
+    "short": "河北卫视",
+    "pid": "600002493",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 23,
+    "name": "山西卫视",
+    "short": "山西卫视",
+    "pid": "600190407",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 24,
+    "name": "内蒙古卫视",
+    "short": "内蒙古卫视",
+    "pid": "600190401",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 25,
+    "name": "辽宁卫视",
+    "short": "辽宁卫视",
+    "pid": "600002505",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 26,
+    "name": "吉林卫视",
+    "short": "吉林卫视",
+    "pid": "600190405",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 27,
+    "name": "黑龙江卫视",
+    "short": "黑龙江卫视",
+    "pid": "600002498",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 28,
+    "name": "江苏卫视",
+    "short": "江苏卫视",
+    "pid": "600002521",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 29,
+    "name": "浙江卫视",
+    "short": "浙江卫视",
+    "pid": "600002520",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 30,
+    "name": "安徽卫视",
+    "short": "安徽卫视",
+    "pid": "600002532",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 31,
+    "name": "福建东南卫视",
+    "short": "福建东南卫视",
+    "pid": "600002484",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 32,
+    "name": "江西卫视",
+    "short": "江西卫视",
+    "pid": "600002503",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 33,
+    "name": "山东卫视",
+    "short": "山东卫视",
+    "pid": "600002513",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 34,
+    "name": "河南卫视",
+    "short": "河南卫视",
+    "pid": "600002525",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 35,
+    "name": "湖北卫视",
+    "short": "湖北卫视",
+    "pid": "600002508",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 36,
+    "name": "湖南卫视",
+    "short": "湖南卫视",
+    "pid": "600002475",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 37,
+    "name": "广东卫视",
+    "short": "广东卫视",
+    "pid": "600002485",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 38,
+    "name": "广西卫视",
+    "short": "广西卫视",
+    "pid": "600002509",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 39,
+    "name": "海南卫视",
+    "short": "海南卫视",
+    "pid": "600002506",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 40,
+    "name": "四川卫视",
+    "short": "四川卫视",
+    "pid": "600002516",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 41,
+    "name": "贵州卫视",
+    "short": "贵州卫视",
+    "pid": "600002490",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 42,
+    "name": "云南卫视",
+    "short": "云南卫视",
+    "pid": "600190402",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 43,
+    "name": "西藏卫视",
+    "short": "西藏卫视",
+    "pid": "600190403",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 44,
+    "name": "陕西卫视",
+    "short": "陕西卫视",
+    "pid": "600190400",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 45,
+    "name": "甘肃卫视",
+    "short": "甘肃卫视",
+    "pid": "600190408",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 46,
+    "name": "青海卫视",
+    "short": "青海卫视",
+    "pid": "600190406",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 47,
+    "name": "宁夏卫视",
+    "short": "宁夏卫视",
+    "pid": "600190737",
+    "cctv": null,
+    "group": "卫视"
+  },
+  {
+    "no": 48,
+    "name": "新疆卫视",
+    "short": "新疆卫视",
+    "pid": "600152138",
+    "cctv": null,
+    "group": "卫视"
+  }
+]

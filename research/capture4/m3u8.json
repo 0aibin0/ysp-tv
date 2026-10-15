@@ -1,0 +1,20 @@
+{
+ "m3u8": {
+  "url": "https://live-dtocnc-cdn.ysp.cctv.cn/B616ABAF3F67FF017E5A8746AC1AF20E46D9C0CA5CB0AA1EC7A8206467BDAE9127C6CE7170603BB4692A4D27F2D6E9F77B73C91DB18DB6E9864EF62039D82E413F22E02E25838AA8BF73ADC39B55BA334F655152AD0163E0B845898C6B92784185301930069FE1DB80688F9D21043A31/2024078203_web.m3u8?from=player&svrtime=1791874610&pid=600001859&cdn=5505&revoi=&app_id=519748109&guid=mv6btwde_i7zoaaqp1r&ysign=1c47f8de24490b9aea25b2c83d47cdf4&ytime=1791874610&ytype=1",
+  "status": 200,
+  "mime": "text/plain",
+  "headers": {
+   "x-ws-request-id": "6acdd634_PS-HND-04qVU45_59368-14922",
+   "X-SERVER-IP": "140.150.1.79",
+   "x-via": "1.1 PS-CZX-01y9G65:0 (Cdn Cache Server V2.0), 1.1 PS-000-01kik191:3 (Cdn Cache Server V2.0), 1.1 PS-HND-04qVU45:3 (Cdn Cache Server V2.0)",
+   "Connection": "keep-alive",
+   "Access-Control-Allow-Origin": "*",
+   "alt-svc": "quic=\":443\"; ma=2592000; v=\"46,43,39\"; ma=2592000,h3-Q050=\":443\"",
+   "Content-Length": "890",
+   "Date": "Tue, 13 Oct 2026 06:56:52 GMT",
+   "Content-Type": "text/plain; charset=utf-8",
+   "X-CLIENT-IP": "103.75.118.156"
+  },
+  "body": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-ALLOW-CACHE:NO\n#EXT-X-TARGETDURATION:5\n#EXT-X-MEDIA-SEQUENCE:1786111947\n#EXT-X-PROGRAM-DATE-TIME:2026-10-13T14:56:32+08:00\n#EXTINF:4.040,\n2024078203_web-1786111947.ts?from=player&svrtime=1791874610&pid=600001859&cdn=5505&revoi=&app_id=519748109&guid=mv6btwde_i7zoaaqp1r&ysign=1c47f8de24490b9aea25b2c83d47cdf4&ytime=1791874610&ytype=1\n#EXT-X-PROGRAM-DATE-TIME:2026-10-13T14:56:36+08:00\n#EXTINF:4.800,\n2024078203_web-1786111948.ts?from=player&svrtime=1791874610&pid=600001859&cdn=5505&revoi=&app_id=519748109&guid=mv6btwde_i7zoaaqp1r&ysign=1c47f8de24490b9aea25b2c83d47cdf4&ytime=1791874610&ytype=1\n#EXT-X-PROGRAM-DATE-TIME:2026-10-13T14:56:41+08:00\n#EXTINF:5.000,\n2024078203_web-1786111949.ts?from=player&svrtime=1791874610&pid=600001859&cdn=5505&revoi=&app_id=519748109&guid=mv6btwde_i7zoaaqp1r&ysign=1c47f8de24490b9aea25b2c83d47cdf4&ytime=1791874610&ytype=1\n"
+ }
+}

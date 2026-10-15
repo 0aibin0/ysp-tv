@@ -1,0 +1,102 @@
+{
+  "links": [
+    "//tv.cctv.com/live/m/",
+    "https://tv.cctv.com/live/cctv1/",
+    "https://tv.cctv.com/live/cctv2/",
+    "https://tv.cctv.com/live/cctv3/",
+    "https://tv.cctv.com/live/cctv4/",
+    "https://tv.cctv.com/live/cctv5/",
+    "https://tv.cctv.com/live/cctv5plus/",
+    "https://tv.cctv.com/live/cctv6/",
+    "https://tv.cctv.com/live/cctv7/",
+    "https://tv.cctv.com/live/cctv8/",
+    "https://tv.cctv.com/live/cctvjilu/",
+    "https://tv.cctv.com/live/cctv10/",
+    "https://tv.cctv.com/live/cctv11/",
+    "https://tv.cctv.com/live/cctv12/",
+    "https://tv.cctv.com/live/cctv13/",
+    "https://tv.cctv.com/live/cctvchild/",
+    "https://tv.cctv.com/live/cctv15/",
+    "https://tv.cctv.com/live/cctv16/",
+    "https://tv.cctv.com/live/cctv17/",
+    "https://tv.cctv.com/live/cctvamerica/"
+  ],
+  "pairs": [
+    {
+      "name": "CCTV-1 综合",
+      "code": "cctv1"
+    },
+    {
+      "name": "CCTV-2 财经",
+      "code": "cctv2"
+    },
+    {
+      "name": "CCTV-3 综艺",
+      "code": "cctv3"
+    },
+    {
+      "name": "CCTV-4 中文国际（亚）",
+      "code": "cctv4"
+    },
+    {
+      "name": "CCTV-5 体育",
+      "code": "cctv5"
+    },
+    {
+      "name": "CCTV-5+ 体育赛事",
+      "code": "cctv5plus"
+    },
+    {
+      "name": "CCTV-6 电影",
+      "code": "cctv6"
+    },
+    {
+      "name": "CCTV-7 国防军事",
+      "code": "cctv7"
+    },
+    {
+      "name": "CCTV-8 电视剧",
+      "code": "cctv8"
+    },
+    {
+      "name": "CCTV-9 纪录",
+      "code": "cctvjilu"
+    },
+    {
+      "name": "CCTV-10 科教",
+      "code": "cctv10"
+    },
+    {
+      "name": "CCTV-11 戏曲",
+      "code": "cctv11"
+    },
+    {
+      "name": "CCTV-12 社会与法",
+      "code": "cctv12"
+    },
+    {
+      "name": "CCTV-13 新闻",
+      "code": "cctv13"
+    },
+    {
+      "name": "CCTV-14 少儿",
+      "code": "cctvchild"
+    },
+    {
+      "name": "CCTV-15 音乐",
+      "code": "cctv15"
+    },
+    {
+      "name": "CCTV-16 奥林匹克",
+      "code": "cctv16"
+    },
+    {
+      "name": "CCTV-17 农业农村",
+      "code": "cctv17"
+    },
+    {
+      "name": "CCTV-4 中文国际（美）",
+      "code": "cctvamerica"
+    }
+  ]
+}

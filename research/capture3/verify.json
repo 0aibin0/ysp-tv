@@ -1,0 +1,27 @@
+{
+ "url": "https://www.yangshipin.cn/tv/home?pid=600002483",
+ "state": {
+  "routeQuery": {
+   "pid": "600002483"
+  },
+  "tvIndex": {
+   "channelName": "东方卫视",
+   "pid": "600002483",
+   "streamId": "2024054503"
+  },
+  "nowPlayItem": "交锋(39)",
+  "tabACount": 40,
+  "tabBCount": 33,
+  "selectIndex": 1
+ },
+ "m3u8url": "https://live-dtocnc-cdn.ysp.cctv.cn/9355EA1D8AACB91A151884813C792A15B5309185A0ACF143D313564BDE713A18C97A8E9E47A9596FDAD28EE248D4485373577F06930ACC5BFEB6166B5186902EA219E925F2271A50B54C123DCE016C0EF004199889B6C9017FE41333FDE57442918E7C19C8E0AAA29B3FDAED3B9356B2/2024054503_web.m3u8?from=player&svrtime=1791874562&pid=600002483&cdn=5505&revoi=&app_id=519748109&guid=mv6bsudb_nefw4l2nl9&ysign=c97ccad53aa27e94a3ae0f93c6277150&ytime=1791874562&ytype=1",
+ "m3u8body": "{}",
+ "tsurl": "https://live-dtocnc-cdn.ysp.cctv.cn/9355EA1D8AACB91A151884813C792A15B5309185A0ACF143D313564BDE713A18C97A8E9E47A9596FDAD28EE248D4485373577F06930ACC5BFEB6166B5186902EA219E925F2271A50B54C123DCE016C0EF004199889B6C9017FE41333FDE57442918E7C19C8E0AAA29B3FDAED3B9356B2/2024054503_web-1786439151.ts?from=player&svrtime=1791874562&pid=600002483&cdn=5505&revoi=&app_id=519748109&guid=mv6bsudb_nefw4l2nl9&ysign=c97ccad53aa27e94a3ae0f93c6277150&ytime=1791874562&ytype=1",
+ "tsinfo": {},
+ "drm": {
+  "src": "blob:https://www.yangshipin.cn/89278c5e-",
+  "hasEME": "function",
+  "videoKeys": "none",
+  "currentSrc": "blob:https://www.yangshipin.cn/89278c5e-68cb-4c87-b716-71880"
+ }
+}

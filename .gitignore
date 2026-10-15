@@ -1,0 +1,54 @@
+# ------------------------------------------------------------------ build output
+build/
+*.class
+*.dex
+build.ps1.log
+
+# -------------------------------------------------------------------- signing key
+# The keystore holds a PRIVATE signing key. It is deliberately not published:
+# anyone holding it could sign an APK that Android would accept as an update to
+# this app. tools/build.ps1 regenerates one automatically when it is missing --
+# see README, section 七 (重新编译).
+keystore/
+
+# ------------------------------------------------ reverse-engineering scratch data
+# Headless-Chrome user-data directories created by the probe scripts under
+# research/. These are browser caches worth hundreds of MB each.
+research/chrome-*/
+research/*/chrome-profile*/
+
+# Bundled binaries captured alongside the network traces.
+research/capture*/bin/
+
+# ------------------------------------------------------------------------------
+# Copies of the site's own code and markup are not redistributed here:
+#   research/js/          - JavaScript bundles downloaded from yangshipin.cn
+#   research/home-dom.html - the page's rendered HTML
+# Both can be re-fetched with research/harvest.js.
+# ------------------------------------------------------------------------------
+research/js/
+research/home-dom.html
+
+# apksigner writes a v4 signature side file next to the APK; this build only
+# uses v1/v2/v3, so the file is unused.
+*.idsig
+
+# ------------------------------------------------------------------------------
+# Screenshots and recorded transport-stream segments.
+# Two reasons: they are large, and they contain CCTV broadcast frames, which are
+# not ours to redistribute. Re-create screenshots by running the app.
+# ------------------------------------------------------------------------------
+research/**/*.png
+research/*.png
+research/**/*.ts
+research/**/*.mp4
+research/**/*.m3u8
+
+# ------------------------------------------------------------------ editors / OS
+.vscode/
+.idea/
+*.iml
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak

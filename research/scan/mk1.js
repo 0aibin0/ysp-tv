@@ -1,0 +1,10 @@
+const fs = require('fs');
+const d = JSON.parse(fs.readFileSync('D:/Desktop/deepseek-dsh/yangshipin-tv/research/capture2/extracted.json', 'utf8'));
+const tv = d.tvComponent;
+const out = { tabA: tv.tabA.map(c => ({ channelName: c.channelName, pid: c.pid, streamId: c.streamId, channelType: c.channelType, isVip: c.isVip, is4K: c.is4K, tvLogo: c.tvLogo })), tabB: tv.tabB.map(c => ({ channelName: c.channelName, pid: c.pid, streamId: c.streamId, channelType: c.channelType, isVip: c.isVip, is4K: c.is4K, tvLogo: c.tvLogo })) };
+fs.writeFileSync('D:/Desktop/deepseek-dsh/yangshipin-tv/research/channels-raw.json', JSON.stringify(out, null, 1), 'utf8');
+console.log('tabA', out.tabA.length, 'tabB', out.tabB.length);
+console.log('\n-- tabB full --');
+out.tabB.forEach((c, i) => console.log(i, c.channelName, c.pid, c.streamId));
+console.log('\n-- streams for a few not-yet-listed --');
+[24,25,26,27,28,29,30,31,32].forEach(i => console.log(i, JSON.stringify(out.tabB[i])));

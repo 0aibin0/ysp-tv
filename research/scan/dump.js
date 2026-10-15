@@ -1,0 +1,17 @@
+const fs = require('fs');
+const d = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'));
+const tv = d.tvComponent;
+console.log('tabA count =', tv.tabA.length);
+console.log('tabB count =', tv.tabB.length);
+console.log('\n--- tabA (央视) ---');
+tv.tabA.forEach((c, i) => console.log(i, c.channelName, 'pid=' + c.pid, 'streamId=' + c.streamId, 'vip=' + c.isVip, '4K=' + c.is4K));
+console.log('\n--- tabB (卫视) ---');
+tv.tabB.forEach((c, i) => console.log(i, c.channelName, 'pid=' + c.pid, 'streamId=' + c.streamId));
+console.log('\n--- initial tvIndex / nowPlaying ---');
+console.log(JSON.stringify(tv.tvIndex), '|', tv.nowPlayItem, '| date', tv.nowDate);
+console.log('videoConfig:', JSON.stringify(tv.videoConfig));
+console.log('\n--- jiemudanInfo (first 6) ---');
+console.log(JSON.stringify(tv.jiemudanInfo, null, 1));
+console.log('\n--- after click ---');
+console.log(JSON.stringify(d.afterClick));
+console.log(JSON.stringify(d.tvComponentAfter, null, 1));

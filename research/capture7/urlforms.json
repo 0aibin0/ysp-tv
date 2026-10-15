@@ -1,0 +1,24 @@
+{
+ "short /tv?pid": {
+  "href": "https://www.yangshipin.cn/tv/home?pid=600002475",
+  "routePath": "/tv/home",
+  "routeQuery": {
+   "pid": "600002475"
+  },
+  "channel": "湖南卫视",
+  "pid": "600002475",
+  "now": "偶像独播剧场:爱情不打烊",
+  "selectIndex": 1
+ },
+ "long /tv/home?pid": {
+  "href": "https://www.yangshipin.cn/tv/home?pid=600002475",
+  "routePath": "/tv/home",
+  "routeQuery": {
+   "pid": "600002475"
+  },
+  "channel": "湖南卫视",
+  "pid": "600002475",
+  "now": "偶像独播剧场:爱情不打烊",
+  "selectIndex": 1
+ }
+}

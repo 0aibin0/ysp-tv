@@ -1,0 +1,386 @@
+[
+ {
+  "no": "CCTV-1",
+  "name": "CCTV1",
+  "pid": "600001859",
+  "streamId": "2024078201",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600001859"
+ },
+ {
+  "no": "CCTV-2",
+  "name": "CCTV2",
+  "pid": "600001800",
+  "streamId": "2024075401",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600001800"
+ },
+ {
+  "no": "CCTV-3",
+  "name": "CCTV3",
+  "pid": "600001801",
+  "streamId": "2024068501",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600001801"
+ },
+ {
+  "no": "CCTV-4",
+  "name": "CCTV4",
+  "pid": "600001814",
+  "streamId": "2029797101",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600001814"
+ },
+ {
+  "no": "CCTV-5",
+  "name": "CCTV5",
+  "pid": "600001818",
+  "streamId": "2024078401",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600001818"
+ },
+ {
+  "no": "CCTV-6",
+  "name": "CCTV6",
+  "pid": "600108442",
+  "streamId": "2013693901",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600108442"
+ },
+ {
+  "no": "CCTV-7",
+  "name": "CCTV7",
+  "pid": "600004092",
+  "streamId": "2024072001",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600004092"
+ },
+ {
+  "no": "CCTV-8",
+  "name": "CCTV8",
+  "pid": "600001803",
+  "streamId": "2029793001",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600001803"
+ },
+ {
+  "no": "CCTV-9",
+  "name": "CCTV9",
+  "pid": "600004078",
+  "streamId": "2024078601",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600004078"
+ },
+ {
+  "no": "CCTV-10",
+  "name": "CCTV10",
+  "pid": "600001805",
+  "streamId": "2024078701",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600001805"
+ },
+ {
+  "no": "CCTV-11",
+  "name": "CCTV11",
+  "pid": "600001806",
+  "streamId": "2027248701",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600001806"
+ },
+ {
+  "no": "CCTV-12",
+  "name": "CCTV12",
+  "pid": "600001807",
+  "streamId": "2027248801",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600001807"
+ },
+ {
+  "no": "CCTV-13",
+  "name": "CCTV13",
+  "pid": "600001811",
+  "streamId": "2029797201",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600001811"
+ },
+ {
+  "no": "CCTV-14",
+  "name": "CCTV14",
+  "pid": "600001809",
+  "streamId": "2027248901",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600001809"
+ },
+ {
+  "no": "CCTV-15",
+  "name": "CCTV15",
+  "pid": "600001815",
+  "streamId": "2027249001",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600001815"
+ },
+ {
+  "no": "CCTV-16",
+  "name": "CCTV16-HD",
+  "pid": "600098637",
+  "streamId": "2027249101",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600098637"
+ },
+ {
+  "no": "CCTV-17",
+  "name": "CCTV17",
+  "pid": "600001810",
+  "streamId": "2027249401",
+  "channelType": "yangshi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600001810"
+ },
+ {
+  "no": "北京",
+  "name": "北京卫视",
+  "pid": "600002309",
+  "streamId": "2024052703",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002309"
+ },
+ {
+  "no": "江苏",
+  "name": "江苏卫视",
+  "pid": "600002521",
+  "streamId": "2024171103",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002521"
+ },
+ {
+  "no": "东方",
+  "name": "东方卫视",
+  "pid": "600002483",
+  "streamId": "2024054503",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002483"
+ },
+ {
+  "no": "浙江",
+  "name": "浙江卫视",
+  "pid": "600002520",
+  "streamId": "2024054703",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002520"
+ },
+ {
+  "no": "湖南",
+  "name": "湖南卫视",
+  "pid": "600002475",
+  "streamId": "2024054803",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002475"
+ },
+ {
+  "no": "湖北",
+  "name": "湖北卫视",
+  "pid": "600002508",
+  "streamId": "2024171203",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002508"
+ },
+ {
+  "no": "广东",
+  "name": "广东卫视",
+  "pid": "600002485",
+  "streamId": "2024060903",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002485"
+ },
+ {
+  "no": "广西",
+  "name": "广西卫视",
+  "pid": "600002509",
+  "streamId": "2024060703",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002509"
+ },
+ {
+  "no": "黑龙江",
+  "name": "黑龙江卫视",
+  "pid": "600002498",
+  "streamId": "2029797003",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002498"
+ },
+ {
+  "no": "海南",
+  "name": "海南卫视",
+  "pid": "600002506",
+  "streamId": "2024055603",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002506"
+ },
+ {
+  "no": "重庆",
+  "name": "重庆卫视",
+  "pid": "600002531",
+  "streamId": "2024061103",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002531"
+ },
+ {
+  "no": "四川",
+  "name": "四川卫视",
+  "pid": "600002516",
+  "streamId": "2024061403",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002516"
+ },
+ {
+  "no": "河南",
+  "name": "河南卫视",
+  "pid": "600002525",
+  "streamId": "2029797303",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002525"
+ },
+ {
+  "no": "福建",
+  "name": "福建东南卫视",
+  "pid": "600002484",
+  "streamId": "2024061503",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002484"
+ },
+ {
+  "no": "贵州",
+  "name": "贵州卫视",
+  "pid": "600002490",
+  "streamId": "2024061603",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002490"
+ },
+ {
+  "no": "江西",
+  "name": "江西卫视",
+  "pid": "600002503",
+  "streamId": "2024061703",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002503"
+ },
+ {
+  "no": "辽宁",
+  "name": "辽宁卫视",
+  "pid": "600002505",
+  "streamId": "2024171303",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002505"
+ },
+ {
+  "no": "安徽",
+  "name": "安徽卫视",
+  "pid": "600002532",
+  "streamId": "2024171403",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002532"
+ },
+ {
+  "no": "河北",
+  "name": "河北卫视",
+  "pid": "600002493",
+  "streamId": "2024171503",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002493"
+ },
+ {
+  "no": "山东",
+  "name": "山东卫视",
+  "pid": "600002513",
+  "streamId": "2029787903",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600002513"
+ },
+ {
+  "no": "天津",
+  "name": "天津卫视",
+  "pid": "600152137",
+  "streamId": "2019927003",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600152137"
+ },
+ {
+  "no": "吉林",
+  "name": "吉林卫视",
+  "pid": "600190405",
+  "streamId": "2025561503",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600190405"
+ },
+ {
+  "no": "陕西",
+  "name": "陕西卫视",
+  "pid": "600190400",
+  "streamId": "2029795103",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600190400"
+ },
+ {
+  "no": "甘肃",
+  "name": "甘肃卫视",
+  "pid": "600190408",
+  "streamId": "2025561703",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600190408"
+ },
+ {
+  "no": "宁夏",
+  "name": "宁夏卫视",
+  "pid": "600190737",
+  "streamId": "2025608503",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600190737"
+ },
+ {
+  "no": "内蒙古",
+  "name": "内蒙古卫视",
+  "pid": "600190401",
+  "streamId": "2025561203",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600190401"
+ },
+ {
+  "no": "云南",
+  "name": "云南卫视",
+  "pid": "600190402",
+  "streamId": "2025561303",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600190402"
+ },
+ {
+  "no": "山西",
+  "name": "山西卫视",
+  "pid": "600190407",
+  "streamId": "2025560803",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600190407"
+ },
+ {
+  "no": "青海",
+  "name": "青海卫视",
+  "pid": "600190406",
+  "streamId": "2025559103",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600190406"
+ },
+ {
+  "no": "西藏",
+  "name": "西藏卫视",
+  "pid": "600190403",
+  "streamId": "2025558003",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600190403"
+ },
+ {
+  "no": "新疆",
+  "name": "新疆卫视",
+  "pid": "600152138",
+  "streamId": "2019927403",
+  "channelType": "weishi",
+  "url": "https://www.yangshipin.cn/tv/home?pid=600152138"
+ }
+]

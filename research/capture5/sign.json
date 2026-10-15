@@ -1,0 +1,281 @@
+{
+ "captured": [
+  {
+   "m": "post",
+   "u": "https://btrace.yangshipin.cn/kvcollect?BossId=8206&c_timestamp=mv6byz1g_c66epo5yh7l",
+   "h": {
+    "Content-Type": "application/x-www-form-urlencoded"
+   },
+   "b": "Pwd=1972909464&fuv=1&fuv_host=www.yangshipin.cn&fuv_path=www.yangshipin.cn%2Ftv%2Fhome&fact1=-&fact2=-&fact3=-&fact4=-&fact5=-&c_host=www.yangshipin.cn&c_pathname=www.yangshipin.cn%2Ftv%2Fhome&c_url=www.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&c_channel=-&c_referrer=-&c_ssize=1584&c_ua=Mozilla%2F5.0+(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&c_os=windows&c_osv=windows10&c_browser=chrome%20headless&c_browserv=chrome%20headless154&c_dvendor=unkown&c_dmodel=unkown&c_dtype=unkown&c_city=disabled&c_nation=disabled&c_province=disabled&c_guid=mv6byz1d_63lp77mbj2m&c_vuid=-&y_ip=-&y_ipv6=-"
+  },
+  {
+   "m": "post",
+   "u": "https://btrace.yangshipin.cn/kvcollect?BossId=8186&c_timestamp=mv6byz40_spz5an8ly6",
+   "h": {
+    "Content-Type": "application/x-www-form-urlencoded"
+   },
+   "b": "Pwd=1537925741&fpv=1&fpv_host=www.yangshipin.cn&fpv_path=www.yangshipin.cn%2Ftv%2Fhome&fact1=-&fact2=-&fact3=-&fact4=-&fact5=-&fpid=600001859&c_host=www.yangshipin.cn&c_pathname=www.yangshipin.cn%2Ftv%2Fhome&c_url=www.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&c_channel=-&c_referrer=-&c_ssize=1584&c_ua=Mozilla%2F5.0+(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&c_os=windows&c_osv=windows10&c_browser=chrome%20headless&c_browserv=chrome%20headless154&c_dvendor=unkown&c_dmodel=unkown&c_dtype=unkown&c_city=disabled&c_nation=disabled&c_province=disabled&c_guid=mv6byz1d_63lp77mbj2m&c_vuid=-&y_ip=-&y_ipv6=-"
+  },
+  {
+   "m": "GET",
+   "u": "https://capi.yangshipin.cn/api/oms/pc/navigation/home_top_nav?358374953",
+   "h": {
+    "Accept": "application/json, text/plain, */*"
+   },
+   "b": "[object Null]"
+  },
+  {
+   "m": "GET",
+   "u": "https://capi.yangshipin.cn/api/oms/pc/config?358374953",
+   "h": {
+    "Accept": "application/json, text/plain, */*"
+   },
+   "b": "[object Null]"
+  },
+  {
+   "m": "post",
+   "u": "https://btrace.yangshipin.cn/kvcollect?BossId=8190&c_timestamp=mv6bz0x8_vr3jazhj67r",
+   "h": {
+    "Content-Type": "application/x-www-form-urlencoded"
+   },
+   "b": "Pwd=1513256975&fpid=600001859&faction=login_reqRefreshStart&c_host=www.yangshipin.cn&c_pathname=www.yangshipin.cn%2Ftv%2Fhome&c_url=www.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&c_channel=-&c_referrer=-&c_ssize=1584&c_ua=Mozilla%2F5.0+(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&c_os=windows&c_osv=windows10&c_browser=chrome%20headless&c_browserv=chrome%20headless154&c_dvendor=unkown&c_dmodel=unkown&c_dtype=unkown&c_city=disabled&c_nation=disabled&c_province=disabled&c_guid=mv6byz1d_63lp77mbj2m&c_vuid=-&y_ip=-&y_ipv6=-"
+  },
+  {
+   "m": "GET",
+   "u": "https://capi.yangshipin.cn/api/oms/pc/page/PG00000004?358374953",
+   "h": {
+    "Accept": "application/json, text/plain, */*"
+   },
+   "b": "[object Null]"
+  },
+  {
+   "m": "GET",
+   "u": "https://csapi.yangshipin.cn/voapi/omsot/serverTime",
+   "h": {
+    "Accept": "application/json, text/plain, */*",
+    "yspappid": "519748109",
+    "platform": "109",
+    "app-platform": "pc",
+    "app-version": "1.0.0"
+   },
+   "b": "[object Null]"
+  },
+  {
+   "m": "GET",
+   "u": "https://csapi.yangshipin.cn/voapi/omsot/serverTime",
+   "h": {
+    "Accept": "application/json, text/plain, */*",
+    "yspappid": "519748109",
+    "platform": "109",
+    "app-platform": "pc",
+    "app-version": "1.0.0"
+   },
+   "b": "[object Null]"
+  },
+  {
+   "m": "GET",
+   "u": "https://capi.yangshipin.cn/api/yspepg/program/600001859/20261013",
+   "h": {
+    "Accept": "application/json, text/plain, */*"
+   },
+   "b": "[object Null]"
+  },
+  {
+   "m": "POST",
+   "u": "https://aatc-api.yangshipin.cn/kvcollect",
+   "h": {
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/json"
+   },
+   "b": "{\"BossId\":\"93101\",\"Pwd\":1037836152,\"pid\":\"600001859\",\"guid\":\"mv6byz1d_63lp77mbj2m\",\"y_guid\":\"mv6byz1d_63lp77mbj2m\",\"ftime\":\"2026-10-13 14:59:30\",\"surl\":\"https://www.yangshipin.cn/tv/home?pid=600001859\",\"hh_ua\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36\",\"platform\":\"5910204\",\"sid\":\"2024078201\",\"playno\":\"xu5EzhgrvG\",\"vdef\":\"\",\"ctime\":1791874770,\"rtime\":1791874770,\"version\":\"1.1.11\",\"y_version\":\"1.1.11\",\"step\":5,\"c_channel\":\"\",\"sdtfrom\":\"ysp_pc_01\",\"fplayerver\":\"189\",\"fact1\":\"ysp_pc_live_b\",\"sref\":\"\",\"vurl\":\"\",\"hh_uav\":\"Chrome154\",\"hh_ref\":\"\",\"y_pkgname\":\"ysp_pc_live\",\"y_buildversion\":\"189\",\"y_installtime\":1791874770,\"y_deviceid\":\"mv6byz1d_63lp77mbj2m\",\"y_devicename\":\"Chrome154\",\"y_webcore\":\"Chrome154\",\"y_systemversion\":\"1.1.11\",\"y_devicemodel\":\"Chrome154\",\"y_screenwidth\":800,\"y_screenheight\":600,\"url\":\"\",\"rand_str\":\"3m5mrDCllz\",\"signature\":\"025bb1f34e6a1fa26c454e2bb5767ac6\"}"
+  },
+  {
+   "m": "POST",
+   "u": "https://aatc-api.yangshipin.cn/kvcollect",
+   "h": {
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/json"
+   },
+   "b": "{\"BossId\":\"93101\",\"Pwd\":1037836152,\"pid\":\"600001859\",\"guid\":\"mv6byz1d_63lp77mbj2m\",\"y_guid\":\"mv6byz1d_63lp77mbj2m\",\"ftime\":\"2026-10-13 14:59:30\",\"surl\":\"https://www.yangshipin.cn/tv/home?pid=600001859\",\"hh_ua\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36\",\"platform\":\"5910204\",\"sid\":\"2024078201\",\"playno\":\"O7pNsf4BRw\",\"vdef\":\"fhd\",\"ctime\":1791874770,\"rtime\":1791874770,\"version\":\"1.1.11\",\"y_version\":\"1.1.11\",\"step\":3,\"c_channel\":\"\",\"sdtfrom\":\"ysp_pc_01\",\"fplayerver\":\"189\",\"fact1\":\"ysp_pc_live_b\",\"sref\":\"\",\"vurl\":\"\",\"hh_uav\":\"Chrome154\",\"hh_ref\":\"\",\"y_pkgname\":\"ysp_pc_live\",\"y_buildversion\":\"189\",\"y_installtime\":1791874770,\"y_deviceid\":\"mv6byz1d_63lp77mbj2m\",\"y_devicename\":\"Chrome154\",\"y_webcore\":\"Chrome154\",\"y_systemversion\":\"1.1.11\",\"y_devicemodel\":\"Chrome154\",\"y_screenwidth\":800,\"y_screenheight\":600,\"url\":\"\",\"rand_str\":\"guu9BcxhYl\",\"signature\":\"0b7c1ba8c6ced57772c9faf572362f86\"}"
+  },
+  {
+   "m": "POST",
+   "u": "https://player-api.yangshipin.cn/v1/player/auth",
+   "h": {
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+    "yspappid": "519748109"
+   },
+   "b": "pid=600001859&guid=mv6byz1d_63lp77mbj2m&appid=ysp_pc&rand_str=8AFZySOEvg&signature=d88a05624ff05ee13533899a3470fc20"
+  },
+  {
+   "m": "post",
+   "u": "https://btrace.yangshipin.cn/kvcollect?BossId=8190&c_timestamp=mv6bz1m1_8q2q2i9aopj",
+   "h": {
+    "Content-Type": "application/x-www-form-urlencoded"
+   },
+   "b": "Pwd=1513256975&fpid=600001859&faction=login_reqRefreshStart&c_host=www.yangshipin.cn&c_pathname=www.yangshipin.cn%2Ftv%2Fhome&c_url=www.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&c_channel=-&c_referrer=-&c_ssize=1584&c_ua=Mozilla%2F5.0+(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&c_os=windows&c_osv=windows10&c_browser=chrome%20headless&c_browserv=chrome%20headless154&c_dvendor=unkown&c_dmodel=unkown&c_dtype=unkown&c_city=disabled&c_nation=disabled&c_province=disabled&c_guid=mv6byz1d_63lp77mbj2m&c_vuid=-&y_ip=-&y_ipv6=-"
+  },
+  {
+   "m": "post",
+   "u": "https://btrace.yangshipin.cn/kvcollect?BossId=3101&c_timestamp=mv6bz1m2_pxe9gk2btya",
+   "h": {
+    "Content-Type": "application/x-www-form-urlencoded"
+   },
+   "b": "Pwd=1037836152&fpid=600001859&pid=600001859&guid=mv6byz1d_63lp77mbj2m&y_guid=mv6byz1d_63lp77mbj2m&ftime=2026-10-13+14%3A59%3A30&surl=https%3A%2F%2Fwww.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&hh_ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&platform=5910204&sid=2024078201&playno=xu5EzhgrvG&vdef=-&ctime=1791874770&rtime=1791874770&c_vuid=-&version=1.1.11&y_version=1.1.11&step=5&c_channel=-&sdtfrom=ysp_pc_01&fplayerver=189&open_id=undefined&openid=undefined&fact1=ysp_pc_live_b&sref=-&vurl=-&hh_uav=Chrome154&hh_ref=-&y_pkgname=ysp_pc_live&y_buildversion=189&y_installtime=1791874770&y_deviceid=mv6byz1d_63lp77mbj2m&y_devicename=Chrome154&y_webcore=Chrome154&y_systemversion=1.1.11&y_devicemodel=Chrome154&y_screenwidth=800&y_screenheight=600&c_host=www.yangshipin.cn&c_pathname=www.yangshipin.cn%2Ftv%2Fhome&c_url=www.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&c_referrer=-&c_ssize=1584&c_ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&c_os=windows&c_osv=windows10&c_browser=chrome%20headless&c_browserv=chrome%20headless154&c_dvendor=unkown&c_dmodel=unkown&c_dtype=unkown&c_city=disabled&c_nation=disabled&c_province=disabled&c_guid=mv6byz1d_63lp77mbj2m&y_ip=-&y_ipv6=-"
+  },
+  {
+   "m": "post",
+   "u": "https://btrace.yangshipin.cn/kvcollect?BossId=3101&c_timestamp=mv6bz1m2_eps81krkwll",
+   "h": {
+    "Content-Type": "application/x-www-form-urlencoded"
+   },
+   "b": "Pwd=1037836152&fpid=600001859&pid=600001859&guid=mv6byz1d_63lp77mbj2m&y_guid=mv6byz1d_63lp77mbj2m&ftime=2026-10-13+14%3A59%3A30&surl=https%3A%2F%2Fwww.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&hh_ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&platform=5910204&sid=2024078201&playno=O7pNsf4BRw&vdef=fhd&ctime=1791874770&rtime=1791874770&c_vuid=-&version=1.1.11&y_version=1.1.11&step=3&c_channel=-&sdtfrom=ysp_pc_01&fplayerver=189&open_id=undefined&openid=undefined&fact1=ysp_pc_live_b&sref=-&vurl=-&hh_uav=Chrome154&hh_ref=-&y_pkgname=ysp_pc_live&y_buildversion=189&y_installtime=1791874770&y_deviceid=mv6byz1d_63lp77mbj2m&y_devicename=Chrome154&y_webcore=Chrome154&y_systemversion=1.1.11&y_devicemodel=Chrome154&y_screenwidth=800&y_screenheight=600&c_host=www.yangshipin.cn&c_pathname=www.yangshipin.cn%2Ftv%2Fhome&c_url=www.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&c_referrer=-&c_ssize=1584&c_ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&c_os=windows&c_osv=windows10&c_browser=chrome%20headless&c_browserv=chrome%20headless154&c_dvendor=unkown&c_dmodel=unkown&c_dtype=unkown&c_city=disabled&c_nation=disabled&c_province=disabled&c_guid=mv6byz1d_63lp77mbj2m&y_ip=-&y_ipv6=-"
+  },
+  {
+   "m": "post",
+   "u": "https://btrace.yangshipin.cn/kvcollect?BossId=8240&c_timestamp=mv6bz2sq_lrhfouwi4f",
+   "h": {
+    "Content-Type": "application/x-www-form-urlencoded"
+   },
+   "b": "Pwd=1256847539&fframe=94&fscreen=7492&fdomready=6403&fonload=8682&ftiming=performance.getEntriesByType&fnavigation=performance.getEntriesByType&fentries=on&redirectStart=0&redirectEnd=0&navigationStart=0&connectEnd=2782&connectStart=2484&domComplete=8682&domContentLoadedEventEnd=6403&domContentLoadedEventStart=6402&domInteractive=6402&domainLookupEnd=2&domainLookupStart=2&fetchStart=2&loadEventEnd=8682&loadEventStart=8682&requestStart=2782&responseEnd=3366&responseStart=3028&secureConnectionStart=2502&unloadEventEnd=1791874771944&unloadEventStart=1791874771944&fnavtype=0&fredcount=0&fentrycount=200&fentrytop=https%3A%2F%2Fwww.yangshipin.cn%2Fjs%2Fchunk-676e57b6.2e3e1313.js&fentrytdur=3487&fentrydetail=%5Bd%3A1395%3Bs%3A3374%3Be%3A4770%3Bhttps%3A%2F%2Fsapi.yangshipin.cn%2Fassets%2F2022%2Fysp_account%2FyspLogin.css%3Ft%3D240723%5D%0A%5Bd%3A710%3Bs%3A3375%3Be%3A4085%3Bhttps%3A%2F%2Fm.yangshipin.cn%2Fstatic%2Fproject%2Ftest%2Fplayer%2Fvr%2Findex.css%5D%0A%5Bd%3A713%3Bs%3A3375%3Be%3A4088%3Bhttps%3A%2F%2Fs.yangshipin.cn%2FCCTVVideo%2FCCTVVideoAssets%2Fv11%2Fjs%2Fzepto.min.js%5D%0A%5Bd%3A668%3Bs%3A3375%3Be%3A4044%3Bhttps%3A%2F%2Fs.yangshipin.cn%2FCCTVVideo%2Fcctvh5-openapi%2Fcctvh5-openapi.min.js%3Fver%3D24722%5D%0A%5Bd%3A824%3Bs%3A3376%3Be%3A4201%3Bhttps%3A%2F%2Fs.yangshipin.cn%2FCCTVVideo%2Fcctvh5-trace%2Fcctvh5-trace.min.js%5D%0A%5Bd%3A986%3Bs%3A3376%3Be%3A4363%3Bhttps%3A%2F%2Fs.yangshipin.cn%2FCCTVVideo%2FCCTVVideoAssets%2Fv1%2Fjs%2Fvconsole.min.js%5D%0A%5Bd%3A1395%3Bs%3A3376%3Be%3A4772%3Bhttps%3A%2F%2Fsapi.yangshipin.cn%2Fassets%2F2022%2Fysp_account%2FyspLogin.min.js%3Fver%3D240723%5D%0A%5Bd%3A1234%3Bs%3A3377%3Be%3A4611%3Bhttps%3A%2F%2Fsapi.yangshipin.cn%2Fassets%2F2024%2Fwasm%2FRJq7sO71JF.js%5D%0A%5Bd%3A1394%3Bs%3A3377%3Be%3A4771%3Bhttps%3A%2F%2Fsapi.yangshipin.cn%2Fassets%2F2025%2Fwasm%2Fhls.cmg.js%3Fver%3D250813%5D%0A%5Bd%3A1214%3Bs%3A3377%3Be%3A4591%3Bhttps%3A%2F%2Fsapi.yangshipin.cn%2Fassets%2F2025%2Fwasm%2Fcmg.worker.js%3Fver%3D250813%5D%0A%5Bd%3A423%3Bs%3A3377%3Be%3A3801%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fapp.8a6fd8f3.css%5D%0A%5Bd%3A708%3Bs%3A3377%3Be%3A4086%3Bhttps%3A%2F%2Fm.yangshipin.cn%2Fstatic%2Fproject%2Ftest%2Fplayer%2Fvr%2Findex.js%3Ft%3D210%5D%0A%5Bd%3A2871%3Bs%3A3377%3Be%3A6249%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-vendors.0b2ff811.css%5D%0A%5Bd%3A892%3Bs%3A3378%3Be%3A4270%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fjs%2Fapp.40ff9730.js%5D%0A%5Bd%3A1398%3Bs%3A3378%3Be%3A4776%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fjs%2Fchunk-vendors.86ef4b5a.js%5D%0A%5Bd%3A496%3Bs%3A4816%3Be%3A5312%3Bhttps%3A%2F%2Fbtrace.yangshipin.cn%2Fkvcollect%3FBossId%3D8206%26c_timestamp%3Dmv6byz1g_c66epo5yh7l%5D%0A%5Bd%3A411%3Bs%3A4906%3Be%3A5317%3Bhttps%3A%2F%2Fbtrace.yangshipin.cn%2Fkvcollect%3FBossId%3D8186%26c_timestamp%3Dmv6byz40_spz5an8ly6%5D%0A%5Bd%3A1525%3Bs%3A4915%3Be%3A6441%3Bhttps%3A%2F%2Fsapi.yangshipin.cn%2Fassets%2F2024%2Fwasm%2FRJq7sO71JF.wasm%5D%0A%5Bd%3A534%3Bs%3A4974%3Be%3A5509%3Bhttps%3A%2F%2Fm.yangshipin.cn%2Fstatic%2Fproject%2Ftest%2Fplayer%2Fvr%2Fthree.js%5D%0A%5Bd%3A256%3Bs%3A4975%3Be%3A5232%3Bhttps%3A%2F%2Fo.alicdn.com%2FQTSDK%2Fquicktracking-sdk%2Fqt_web.umd.js%5D%0A%5Bd%3A155%3Bs%3A4976%3Be%3A5131%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-07626941.58d8209b.css%5D%0A%5Bd%3A155%3Bs%3A4976%3Be%3A5131%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-1522e18e.f3b7bd16.css%5D%0A%5Bd%3A253%3Bs%3A4976%3Be%3A5229%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-16ddcf34.be375933.css%5D%0A%5Bd%3A276%3Bs%3A4976%3Be%3A5253%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-1893cc98.05812a78.css%5D%0A%5Bd%3A341%3Bs%3A4976%3Be%3A5317%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-18eeafe6.f8a99bc0.css%5D%0A%5Bd%3A375%3Bs%3A4976%3Be%3A5352%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-1ea03fe6.01f80de8.css%5D%0A%5Bd%3A1462%3Bs%3A4976%3Be%3A6438%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-1fbb0408.bde49d3e.css%5D%0A%5Bd%3A389%3Bs%3A4976%3Be%3A5365%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-2084e235.835bdd0b.css%5D%0A%5Bd%3A456%3Bs%3A4976%3Be%3A5433%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-256e347e.d740efac.css%5D%0A%5Bd%3A488%3Bs%3A4976%3Be%3A5464%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-2f54d17e.5232a277.css%5D%0A%5Bd%3A532%3Bs%3A4976%3Be%3A5509%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-36843bd3.588166d1.css%5D%0A%5Bd%3A1501%3Bs%3A4976%3Be%3A6477%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-39c6eb75.c9b15690.css%5D%0A%5Bd%3A668%3Bs%3A4976%3Be%3A5645%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-4b502e2e.4b2bc2e7.css%5D%0A%5Bd%3A687%3Bs%3A4976%3Be%3A5663%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-53cd7940.f8a99bc0.css%5D%0A%5Bd%3A660%3Bs%3A4976%3Be%3A5636%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-540e33db.a4286d8c.css%5D%0A%5Bd%3A805%3Bs%3A4976%3Be%3A5782%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-65dd4922.e765ddd6.css%5D%0A%5Bd%3A812%3Bs%3A4977%3Be%3A5789%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-676e57b6.1e682cec.css%5D%0A%5Bd%3A858%3Bs%3A4977%3Be%3A5835%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-69f7abe1.00f30c46.css%5D%0A%5Bd%3A950%3Bs%3A4977%3Be%3A5927%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-69f7e07e.e501987b.css%5D%0A%5Bd%3A986%3Bs%3A4977%3Be%3A5963%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-71d9f9a0.6a6f8d67.css%5D%0A%5Bd%3A999%3Bs%3A4977%3Be%3A5976%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-789c4a40.e5666ba9.css%5D%0A%5Bd%3A1110%3Bs%3A4977%3Be%3A6087%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-7c431587.bade4b8f.css%5D%0A%5Bd%3A1140%3Bs%3A4977%3Be%3A6117%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-7c88a2bc.9428b7e4.css%5D%0A%5Bd%3A1169%3Bs%3A4977%3Be%3A6146%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-90a135fe.390537af.css%5D%0A%5Bd%3A1372%3Bs%3A4977%3Be%3A6349%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-ae1453e4.cd4f6a68.css%5D%0A%5Bd%3A1463%3Bs%3A4977%3Be%3A6441%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-b54283a0.9f3b6307.css%5D%0A%5Bd%3A3208%3Bs%3A4977%3Be%3A8186%3Bhttps%3A%2F%2Fwww.yangshipin.cn%2Fcss%2Fchunk-b26c5dda.f8a99bc0.css%5D%0A%5Bd%3A106%3Bs%3A5615%3Be%3A5722%3Bhttps%3A%2F%2Fmediadata.xuexi.cn%3A8443%2Fv.gif%5D&fentriesdur=712&fsecDomready=6400&fsecOnload=8600&fsecScreen=7400&c_host=www.yangshipin.cn&c_pathname=www.yangshipin.cn%2Ftv%2Fhome&c_url=www.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&c_channel=-&c_referrer=-&c_ssize=1584&c_ua=Mozilla%2F5.0+(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&c_os=windows&c_osv=windows10&c_browser=chrome%20headless&c_browserv=chrome%20headless154&c_dvendor=unkown&c_dmodel=unkown&c_dtype=unkown&c_city=disabled&c_nation=disabled&c_province=disabled&c_guid=mv6byz1d_63lp77mbj2m&c_vuid=-&y_ip=-&y_ipv6=-"
+  },
+  {
+   "m": "POST",
+   "u": "https://player-api.yangshipin.cn/v1/player/get_live_info",
+   "h": {
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/json;charset=UTF-8",
+    "yspappid": "519748109",
+    "yspsdkinput": "2e36ed6c3bd7142d9dec098476a30089",
+    "yspsdksign": "71c54300971a2bdb6dd0bad2a04836bc-2e36ed6c3bd7142d9dec098476a30089-mv6byz1d_63lp77mbj2m-1-999999PIaU8QGeP31791874770674",
+    "seqId": "1",
+    "request-id": "999999PIaU8QGeP31791874770674",
+    "yspPlayerToken": "i3n94HlQU3luMEV2XGLb/PIH2ojjQcIQdH2gp5cDND/gj87MCkJYwq2IdLVwc7NIzLCOoCmVxyKTBKk3sSC1KILJSFIkyDP7yefNHYs2fq0",
+    "yspticket": "5c40d99c304df40d750e99bac41329e9ff5e7d7deceecb571a812d03d6b5faa6f894d29c1f6ca99653a186f612b12d17c1efd3a9d28407e18b1f6a5c36c7"
+   },
+   "b": "{\"cnlid\":\"2024078201\",\"livepid\":\"600001859\",\"stream\":\"2\",\"guid\":\"mv6byz1d_63lp77mbj2m\",\"cKey\":\"--01F5D14FBA11A1BD48CB4B60579CF0B62C24C667719F2DC554826DE9224A96369C930B02CD5585D539DC7AC3FB296947F2FD0648C25D124D149B98266CDDF82FA5571EA9FA933E6141503C547E2DB10EEAE9DD9DB599EE55D057E74AB7826FBFDE77E2714FE7659983AFAB29C8A4AA4C096E0A9165CC938596780F9AD8656E627C6AD0B7294893AC18A15457EA9E1FE1E6BC87E42F4325DBAD5B35012AF95A4225\",\"adjust\":1,\"sphttps\":\"1\",\"platform\":\"5910204\",\"cmd\":\"2\",\"encryptVer\":\"8.1\",\"dtype\":\"1\",\"devid\":\"devid\",\"otype\":\"ojson\",\"appVer\":\"V1.0.0\",\"app_version\":\"V1.0.0\",\"channel\":\"ysp_tx\",\"defn\":\"fhd\",\"rand_str\":\"uZhoUOjvC2\",\"signature\":\"2e100a6394dc4db81e0d83c725495402\"}"
+  },
+  {
+   "m": "POST",
+   "u": "https://aatc-api.yangshipin.cn/kvcollect",
+   "h": {
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/json"
+   },
+   "b": "{\"BossId\":\"93101\",\"Pwd\":1037836152,\"pid\":\"600001859\",\"guid\":\"mv6byz1d_63lp77mbj2m\",\"y_guid\":\"mv6byz1d_63lp77mbj2m\",\"ftime\":\"2026-10-13 14:59:32\",\"surl\":\"https://www.yangshipin.cn/tv/home?pid=600001859\",\"hh_ua\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36\",\"platform\":\"5910204\",\"sid\":\"2024078201\",\"playno\":\"FyZCTldzBx\",\"vdef\":\"fhd\",\"ctime\":1791874772,\"rtime\":1791874772,\"version\":\"1.1.11\",\"y_version\":\"1.1.11\",\"step\":4,\"c_channel\":\"\",\"sdtfrom\":\"ysp_pc_01\",\"fplayerver\":\"189\",\"fact1\":\"ysp_pc_live_b\",\"sref\":\"\",\"vurl\":\"https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web.m3u8?from=player&svrtime=1791874848&pid=600001859&cdn=5506&revoi=&app_id=519748109&guid=mv6byz1d_63lp77mbj2m&ysign=81dd245883ba508216b7b72bcb245686&ytime=1791874848&ytype=1\",\"hh_uav\":\"Chrome154\",\"hh_ref\":\"\",\"y_pkgname\":\"ysp_pc_live\",\"y_buildversion\":\"189\",\"y_installtime\":1791874772,\"y_deviceid\":\"mv6byz1d_63lp77mbj2m\",\"y_devicename\":\"Chrome154\",\"y_webcore\":\"Chrome154\",\"y_systemversion\":\"1.1.11\",\"y_devicemodel\":\"Chrome154\",\"y_screenwidth\":800,\"y_screenheight\":600,\"url\":\"https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web.m3u8?from=player&svrtime=1791874848&pid=600001859&cdn=5506&revoi=&app_id=519748109&guid=mv6byz1d_63lp77mbj2m&ysign=81dd245883ba508216b7b72bcb245686&ytime=1791874848&ytype=1\",\"rand_str\":\"ZWMOWOf5Sf\",\"signature\":\"6297d9f4082c9894c10f1735261311f7\"}"
+  },
+  {
+   "m": "POST",
+   "u": "https://aatc-api.yangshipin.cn/kvcollect",
+   "h": {
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/json"
+   },
+   "b": "{\"BossId\":\"93101\",\"Pwd\":1037836152,\"pid\":\"600001859\",\"guid\":\"mv6byz1d_63lp77mbj2m\",\"y_guid\":\"mv6byz1d_63lp77mbj2m\",\"ftime\":\"2026-10-13 14:59:32\",\"surl\":\"https://www.yangshipin.cn/tv/home?pid=600001859\",\"hh_ua\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36\",\"platform\":\"5910204\",\"sid\":\"2024078201\",\"playno\":\"TyWaoyC6qH\",\"vdef\":\"fhd\",\"ctime\":1791874772,\"rtime\":1791874772,\"version\":\"1.1.11\",\"y_version\":\"1.1.11\",\"step\":5,\"c_channel\":\"\",\"sdtfrom\":\"ysp_pc_01\",\"fplayerver\":\"189\",\"fact1\":\"ysp_pc_live_b\",\"sref\":\"\",\"vurl\":\"https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web.m3u8?from=player&svrtime=1791874848&pid=600001859&cdn=5506&revoi=&app_id=519748109&guid=mv6byz1d_63lp77mbj2m&ysign=81dd245883ba508216b7b72bcb245686&ytime=1791874848&ytype=1\",\"hh_uav\":\"Chrome154\",\"hh_ref\":\"\",\"y_pkgname\":\"ysp_pc_live\",\"y_buildversion\":\"189\",\"y_installtime\":1791874772,\"y_deviceid\":\"mv6byz1d_63lp77mbj2m\",\"y_devicename\":\"Chrome154\",\"y_webcore\":\"Chrome154\",\"y_systemversion\":\"1.1.11\",\"y_devicemodel\":\"Chrome154\",\"y_screenwidth\":800,\"y_screenheight\":600,\"url\":\"https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web.m3u8?from=player&svrtime=1791874848&pid=600001859&cdn=5506&revoi=&app_id=519748109&guid=mv6byz1d_63lp77mbj2m&ysign=81dd245883ba508216b7b72bcb245686&ytime=1791874848&ytype=1\",\"rand_str\":\"ZXbY3zpn7o\",\"signature\":\"d32ea176541d9b4175f20fe83de62133\"}"
+  },
+  {
+   "m": "post",
+   "u": "https://btrace.yangshipin.cn/kvcollect?BossId=3101&c_timestamp=mv6bz35f_ckmpqst21z6",
+   "h": {
+    "Content-Type": "application/x-www-form-urlencoded"
+   },
+   "b": "Pwd=1037836152&fpid=600001859&pid=600001859&guid=mv6byz1d_63lp77mbj2m&y_guid=mv6byz1d_63lp77mbj2m&ftime=2026-10-13+14%3A59%3A32&surl=https%3A%2F%2Fwww.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&hh_ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&platform=5910204&sid=2024078201&playno=FyZCTldzBx&vdef=fhd&ctime=1791874772&rtime=1791874772&c_vuid=-&version=1.1.11&y_version=1.1.11&step=4&c_channel=-&sdtfrom=ysp_pc_01&fplayerver=189&open_id=undefined&openid=undefined&fact1=ysp_pc_live_b&sref=-&vurl=https%3A%2F%2Fhlsliveali-cdn.ysp.cctv.cn%2F5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D%2F2024078203_web.m3u8%3Ffrom%3Dplayer%26svrtime%3D1791874848%26pid%3D600001859%26cdn%3D5506%26revoi%3D%26app_id%3D519748109%26guid%3Dmv6byz1d_63lp77mbj2m%26ysign%3D81dd245883ba508216b7b72bcb245686%26ytime%3D1791874848%26ytype%3D1&hh_uav=Chrome154&hh_ref=-&y_pkgname=ysp_pc_live&y_buildversion=189&y_installtime=1791874772&y_deviceid=mv6byz1d_63lp77mbj2m&y_devicename=Chrome154&y_webcore=Chrome154&y_systemversion=1.1.11&y_devicemodel=Chrome154&y_screenwidth=800&y_screenheight=600&c_host=www.yangshipin.cn&c_pathname=www.yangshipin.cn%2Ftv%2Fhome&c_url=www.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&c_referrer=-&c_ssize=1584&c_ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&c_os=windows&c_osv=windows10&c_browser=chrome%20headless&c_browserv=chrome%20headless154&c_dvendor=unkown&c_dmodel=unkown&c_dtype=unkown&c_city=disabled&c_nation=disabled&c_province=disabled&c_guid=mv6byz1d_63lp77mbj2m&y_ip=-&y_ipv6=-"
+  },
+  {
+   "m": "post",
+   "u": "https://btrace.yangshipin.cn/kvcollect?BossId=3101&c_timestamp=mv6bz35g_8qd301r8mho",
+   "h": {
+    "Content-Type": "application/x-www-form-urlencoded"
+   },
+   "b": "Pwd=1037836152&fpid=600001859&pid=600001859&guid=mv6byz1d_63lp77mbj2m&y_guid=mv6byz1d_63lp77mbj2m&ftime=2026-10-13+14%3A59%3A32&surl=https%3A%2F%2Fwww.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&hh_ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&platform=5910204&sid=2024078201&playno=TyWaoyC6qH&vdef=fhd&ctime=1791874772&rtime=1791874772&c_vuid=-&version=1.1.11&y_version=1.1.11&step=5&c_channel=-&sdtfrom=ysp_pc_01&fplayerver=189&open_id=undefined&openid=undefined&fact1=ysp_pc_live_b&sref=-&vurl=https%3A%2F%2Fhlsliveali-cdn.ysp.cctv.cn%2F5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D%2F2024078203_web.m3u8%3Ffrom%3Dplayer%26svrtime%3D1791874848%26pid%3D600001859%26cdn%3D5506%26revoi%3D%26app_id%3D519748109%26guid%3Dmv6byz1d_63lp77mbj2m%26ysign%3D81dd245883ba508216b7b72bcb245686%26ytime%3D1791874848%26ytype%3D1&hh_uav=Chrome154&hh_ref=-&y_pkgname=ysp_pc_live&y_buildversion=189&y_installtime=1791874772&y_deviceid=mv6byz1d_63lp77mbj2m&y_devicename=Chrome154&y_webcore=Chrome154&y_systemversion=1.1.11&y_devicemodel=Chrome154&y_screenwidth=800&y_screenheight=600&c_host=www.yangshipin.cn&c_pathname=www.yangshipin.cn%2Ftv%2Fhome&c_url=www.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&c_referrer=-&c_ssize=1584&c_ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&c_os=windows&c_osv=windows10&c_browser=chrome%20headless&c_browserv=chrome%20headless154&c_dvendor=unkown&c_dmodel=unkown&c_dtype=unkown&c_city=disabled&c_nation=disabled&c_province=disabled&c_guid=mv6byz1d_63lp77mbj2m&y_ip=-&y_ipv6=-"
+  },
+  {
+   "m": "GET",
+   "u": "https://www.yangshipin.cn/Library/CMGPlayer.json",
+   "h": {},
+   "b": "[object Null]"
+  },
+  {
+   "m": "GET",
+   "u": "https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web.m3u8?from=player&svrtime=1791874848&pid=600001859&cdn=5506&revoi=&app_id=519748109&guid=mv6byz1d_63lp77mbj2m&ysign=81dd245883ba508216b7b72bcb245686&ytime=1791874848&ytype=1",
+   "h": {},
+   "b": "[object Undefined]"
+  },
+  {
+   "m": "GET",
+   "u": "https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web-1786111987.ts",
+   "h": {},
+   "b": "[object Undefined]"
+  },
+  {
+   "m": "GET",
+   "u": "https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web-1786111987.ts",
+   "h": {},
+   "b": "[object Undefined]"
+  },
+  {
+   "m": "GET",
+   "u": "https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web-1786111988.ts",
+   "h": {},
+   "b": "[object Undefined]"
+  },
+  {
+   "m": "POST",
+   "u": "https://aatc-api.yangshipin.cn/kvcollect",
+   "h": {
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/json"
+   },
+   "b": "{\"BossId\":\"93101\",\"Pwd\":1037836152,\"pid\":\"600001859\",\"guid\":\"mv6byz1d_63lp77mbj2m\",\"y_guid\":\"mv6byz1d_63lp77mbj2m\",\"ftime\":\"2026-10-13 14:59:35\",\"surl\":\"https://www.yangshipin.cn/tv/home?pid=600001859\",\"hh_ua\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36\",\"platform\":\"5910204\",\"sid\":\"2024078201\",\"playno\":\"Pb65VSSF7H\",\"vdef\":\"fhd\",\"ctime\":1791874775,\"rtime\":1791874775,\"version\":\"1.1.11\",\"y_version\":\"1.1.11\",\"step\":6,\"c_channel\":\"\",\"sdtfrom\":\"ysp_pc_01\",\"fplayerver\":\"189\",\"fact1\":\"ysp_pc_live_b\",\"sref\":\"\",\"vurl\":\"https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web.m3u8?from=player&svrtime=1791874848&pid=600001859&cdn=5506&revoi=&app_id=519748109&guid=mv6byz1d_63lp77mbj2m&ysign=81dd245883ba508216b7b72bcb245686&ytime=1791874848&ytype=1\",\"hh_uav\":\"Chrome154\",\"hh_ref\":\"\",\"y_pkgname\":\"ysp_pc_live\",\"y_buildversion\":\"189\",\"y_installtime\":1791874775,\"y_deviceid\":\"mv6byz1d_63lp77mbj2m\",\"y_devicename\":\"Chrome154\",\"y_webcore\":\"Chrome154\",\"y_systemversion\":\"1.1.11\",\"y_devicemodel\":\"Chrome154\",\"y_screenwidth\":800,\"y_screenheight\":600,\"url\":\"https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web.m3u8?from=player&svrtime=1791874848&pid=600001859&cdn=5506&revoi=&app_id=519748109&guid=mv6byz1d_63lp77mbj2m&ysign=81dd245883ba508216b7b72bcb245686&ytime=1791874848&ytype=1\",\"rand_str\":\"yDxtN3l347\",\"signature\":\"3ebaf051ff6c74d68e16f0ca773a5539\"}"
+  },
+  {
+   "m": "POST",
+   "u": "https://aatc-api.yangshipin.cn/kvcollect",
+   "h": {
+    "Accept": "application/json, text/plain, */*",
+    "Content-Type": "application/json"
+   },
+   "b": "{\"BossId\":\"99150\",\"Pwd\":1999332929,\"ftime\":\"2026-10-13 14:59:35\",\"progid\":\"2024078201\",\"viewid\":\"2024078201\",\"livepid\":\"600001859\",\"durl\":\"https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web.m3u8?from=player&svrtime=1791874848&pid=600001859&cdn=5506&revoi=&app_id=519748109&guid=mv6byz1d_63lp77mbj2m&ysign=81dd245883ba508216b7b72bcb245686&ytime=1791874848&ytype=1\",\"fplayerver\":\"189\",\"platform\":\"5910204\",\"appver\":\"1.1.11\",\"guid\":\"mv6byz1d_63lp77mbj2m\",\"devtype\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/154.0.0.0 Safari/537.36\",\"switch\":\"fhd\",\"defn\":\"fhd\",\"cmd\":205,\"iqq\":\"\",\"nettype\":\"4g\",\"url\":\"https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web.m3u8?from=player&svrtime=1791874848&pid=600001859&cdn=5506&revoi=&app_id=519748109&guid=mv6byz1d_63lp77mbj2m&ysign=81dd245883ba508216b7b72bcb245686&ytime=1791874848&ytype=1\",\"rand_str\":\"sqMzUiuw5o\",\"signature\":\"0969b97e1d80c8897cd11b97174a73e7\"}"
+  },
+  {
+   "m": "post",
+   "u": "https://btrace.yangshipin.cn/kvcollect?BossId=3101&c_timestamp=mv6bz5fb_4ztg3zct3qa",
+   "h": {
+    "Content-Type": "application/x-www-form-urlencoded"
+   },
+   "b": "Pwd=1037836152&fpid=600001859&pid=600001859&guid=mv6byz1d_63lp77mbj2m&y_guid=mv6byz1d_63lp77mbj2m&ftime=2026-10-13+14%3A59%3A35&surl=https%3A%2F%2Fwww.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&hh_ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&platform=5910204&sid=2024078201&playno=Pb65VSSF7H&vdef=fhd&ctime=1791874775&rtime=1791874775&c_vuid=-&version=1.1.11&y_version=1.1.11&step=6&c_channel=-&sdtfrom=ysp_pc_01&fplayerver=189&open_id=undefined&openid=undefined&fact1=ysp_pc_live_b&sref=-&vurl=https%3A%2F%2Fhlsliveali-cdn.ysp.cctv.cn%2F5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D%2F2024078203_web.m3u8%3Ffrom%3Dplayer%26svrtime%3D1791874848%26pid%3D600001859%26cdn%3D5506%26revoi%3D%26app_id%3D519748109%26guid%3Dmv6byz1d_63lp77mbj2m%26ysign%3D81dd245883ba508216b7b72bcb245686%26ytime%3D1791874848%26ytype%3D1&hh_uav=Chrome154&hh_ref=-&y_pkgname=ysp_pc_live&y_buildversion=189&y_installtime=1791874775&y_deviceid=mv6byz1d_63lp77mbj2m&y_devicename=Chrome154&y_webcore=Chrome154&y_systemversion=1.1.11&y_devicemodel=Chrome154&y_screenwidth=800&y_screenheight=600&c_host=www.yangshipin.cn&c_pathname=www.yangshipin.cn%2Ftv%2Fhome&c_url=www.yangshipin.cn%2Ftv%2Fhome%3Fpid%3D600001859&c_referrer=-&c_ssize=1584&c_ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20HeadlessChrome%2F154.0.0.0%20Safari%2F537.36&c_os=windows&c_osv=windows10&c_browser=chrome%20headless&c_browserv=chrome%20headless154&c_dvendor=unkown&c_dmodel=unkown&c_dtype=unkown&c_city=disabled&c_nation=disabled&c_province=disabled&c_guid=mv6byz1d_63lp77mbj2m&y_ip=-&y_ipv6=-"
+  },
+  {
+   "m": "GET",
+   "u": "https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web-1786111989.ts",
+   "h": {},
+   "b": "[object Undefined]"
+  },
+  {
+   "m": "GET",
+   "u": "https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web.m3u8?from=player&svrtime=1791874848&pid=600001859&cdn=5506&revoi=&app_id=519748109&guid=mv6byz1d_63lp77mbj2m&ysign=81dd245883ba508216b7b72bcb245686&ytime=1791874848&ytype=1",
+   "h": {},
+   "b": "[object Undefined]"
+  },
+  {
+   "m": "GET",
+   "u": "https://hlsliveali-cdn.ysp.cctv.cn/5156FDC54B229D535E3C2D29A870041D704686AF79BEC422D3E7A092AD58C4C59F42D39AD2A71BFCAE2F9CEF0E9A55DDC1BB81901FD643F8DCB17D7EE5C017F28C6B3C6CB3E510ACEC7C5E95185555B93B7E99C5501A9BDB1A8AFD1FAE62F7ECAF69F526EFA4EBD03F8591634157BC1D/2024078203_web-1786111990.ts",
+   "h": {},
+   "b": "[object Undefined]"
+  }
+ ],
+ "openapiVersion": "2.0.1",
+ "sign1": {
+  "openapi_signature": "e12c5da7fe5d516f93ce2580ebe838c9-HELLO-WORLD-TEST-1"
+ },
+ "sign2": {
+  "openapi_signature": "e12c5da7fe5d516f93ce2580ebe838c9-HELLO-WORLD-TEST-1"
+ },
+ "sign3": {
+  "openapi_signature": "0fda832b98b33ee2ee5b89ae0af540fd-HELLO-WORLD-TEST-2"
+ },
+ "sign4": {
+  "openapi_signature": "db1c2b2ef5ca06ed0e0eaf282a4abc2c-HELLO-WORLD-TEST-1"
+ }
+}

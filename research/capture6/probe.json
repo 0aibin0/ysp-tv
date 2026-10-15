@@ -1,0 +1,22 @@
+{
+ "probe": {
+  "hasWebpackJsonp": true,
+  "chunks": 7
+ },
+ "req": {
+  "err": "TypeError: Cannot read properties of undefined (reading 'call')"
+ },
+ "authSignOnControlledInputs": {
+  "sig_of_authbody": {
+   "openapi_signature": "b7a9a5f4663f882b00ede39c13b6a252-pid=600001859&guid=TESTGUID1234&appid=ysp_pc&rand_str=AAAAAAAAAA"
+  },
+  "sig_of_sorted": {
+   "openapi_signature": "9e63b629e7ee932396fbe32d1e47f14f-appid=ysp_pc&guid=TESTGUID1234&pid=600001859&rand_str=AAAAAAAAAA"
+  }
+ },
+ "grid": [
+  "f45fd00a45b05046aa1e211255459d16-X0",
+  "54cb122bce003d521cd8ca1a1c0ee4fc-X1",
+  "474d0d454190939895000e08af413e02-X2"
+ ]
+}
